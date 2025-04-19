@@ -1,6 +1,6 @@
 # deep-sql
 
-
+https://medium.com/nerd-for-tech/some-tips-for-sql-injections-764e1a254a29
 
 
 inurl:”id=” & intext:”Warning: mysql_fetch_assoc()"
