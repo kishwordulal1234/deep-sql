@@ -1,5 +1,5 @@
 # deep-sql
-
+https://netcyberind.blogspot.com/2017/06/kumpulan-dork-untuk-deface.html
 https://medium.com/nerd-for-tech/some-tips-for-sql-injections-764e1a254a29
 
 ```
