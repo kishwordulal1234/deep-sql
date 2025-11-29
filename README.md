@@ -6,7 +6,7 @@ https://netcyberind.blogspot.com/2017/06/kumpulan-dork-untuk-deface.html
 
 https://www.kaskus.co.id/thread/51a9b3627e12437d59000007/sqlmap-backtrack
 
-
+intext:”error in your SQL syntax” +site:in
 
 
 
